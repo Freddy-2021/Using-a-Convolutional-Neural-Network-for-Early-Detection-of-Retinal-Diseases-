@@ -2,7 +2,7 @@
 
 
 
-# Using a Convolutional Neural Network for Early Detection of Retinal 
+# Using a Convolutional Neural Network for Early Detection of Retinal Diseases
 
 **Author:** Freddy Abrahamson<br>
 **Date created:** 8-14-2022<br>
